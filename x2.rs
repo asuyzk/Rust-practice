@@ -8,7 +8,7 @@ fn main(){
     }
 }
 
-fn x2(num: i32) -> i32 {
+fn x2(num: u64) -> u64 {
     num * 2
 }
 
